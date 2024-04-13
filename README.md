@@ -1,3 +1,11 @@
+Created using Create React App, this project featuring a navbar and main section with input fields for top and bottom text. Implemented event listeners and conditional
+rendering to dynamically generate meme images by fetching data from an API. Utilized state management and forms for user interaction, showcasing proficiency in React.js and 
+frontend development techniques.
+
+Skills Demonstrated: Event Listeners, State Management (useState()), Conditional Rendering, Forms, Side Effects (useEffect())
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
